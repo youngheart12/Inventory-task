@@ -1,0 +1,20 @@
+.loginWrapper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.loginBox {
+  margin-top: 15%;
+  width: 400px;
+}
+
+.inputBoxWrapper {
+  margin: 0px 0px 20px 0px;
+}
+
+.title {
+  text-align: center;
+  font-size: 24px;
+  margin-bottom: 20px;
+}
